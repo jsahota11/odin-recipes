@@ -1,0 +1,41 @@
+p {
+    font-family: 'Comic Sans MS',cursive;
+    color: red;
+}
+
+.heading {
+    text-align: center;
+}
+
+#title {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: 'Courier New', monospace;
+}
+
+ol,
+ul {
+    font-size: 20px;
+    text-decoration: wavy;
+}
+
+ol {
+    font-family: 'Brush Script MT',cursive;
+}
+
+ul {
+    background-color: aquamarine;
+}
+
+ol li {
+    background-color: aqua;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
